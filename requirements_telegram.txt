@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+DateTime==4.4
+Xlrd
